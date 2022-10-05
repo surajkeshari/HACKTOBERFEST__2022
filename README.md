@@ -1,10 +1,13 @@
 ##                                        Hacktober-Fest-2022
                                                 This repo is mainly being made for Hacktoberfest 2022.
 
+# -HACKTOBERFEST__2022
+Hacktoberfest2022 - Contribute given programs in any language you want, every valid PR will be accepted!!!
+# Nishant kumar
 
-  
-                               Participate in Hacktoberfest by contributing to any Open Source project on GitHub! 
-                                                       Any kind of Contributions are welcome!
+
+                     Participate in Hacktoberfest by contributing to any Open Source project on GitHub! 
+                                           Any kind of Contributions are welcome!
 
 
 
@@ -15,7 +18,7 @@
 
 ***A beginner-friendly project to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2022!  Please leave a star to support this project!***
 
-![image](https://styles.redditmedia.com/t5_3gryx/styles/communityIcon_ok7yfmyfrnm91.png)
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--n6yDj0MN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/12t9r8j7n9ynxbdzhs5p.png)
 
 
 
@@ -43,7 +46,6 @@ Wait there's more!
 
 ```
 git clone https://github.com/nishantkumar1308/HACKTOBERFEST__2022
-
 ```
 
 - Navigate to project directory.
