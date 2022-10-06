@@ -10,4 +10,8 @@
  Github id:https://github.com/HPMASTER8755
  Problem list: Stack
     1. Valid Parentheses
+    2. Stock span Problem
+    3. Trapping Rain Water
+    4. Largest Rectangle in Histogram
+    5. Next Greater Element
 ]
