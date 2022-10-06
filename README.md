@@ -1,5 +1,5 @@
 ##                                        Hacktober-Fest-2022
-                                                This repo is mainly being made for Hacktoberfest 2022.
+                                This repo is mainly being made for Hacktoberfest 2022.
 
 # -HACKTOBERFEST__2022
 Hacktoberfest2022 - Contribute given programs in any language you want, every valid PR will be accepted!!!
