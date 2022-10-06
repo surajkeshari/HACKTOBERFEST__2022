@@ -7,10 +7,6 @@
 ]
 
 [
-<<<<<<< HEAD
-
-
-=======
 Name : Ashish
 Github id: https://github.com/ashish12011046
 Problem list:
@@ -31,9 +27,15 @@ Problem list:
         3. Topological Sort DFS
         4. Dijkstra’s Algorithm
         5. Bellman-Ford Algo
->>>>>>> 9c04bd10f54fe2076a71a0103dde6a8b51a4af3c
 ]
 
 [
-    
+    Name:Himanshu Panwar
+    Github id:https://github.com/HPMASTER8755
+    Problem list: Stack
+        1. Largest rectangle in histogram
+        2. Next greater element
+        3. Stock span problem
+        4. Trapping Rain Water
+        5. Valid Parentheses
 ]
