@@ -101,3 +101,18 @@ Publishing others' private information, such as a physical or electronic address
 
 ## 🎯Objectives
 - The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
+## Awesome contributors :🤩🤩🤩🤩
+
+<a href="https://github.com/nishantkumar1308/HACKTOBERFEST__2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nishantkumar1308/HACKTOBERFEST__2022" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+## Help Contributing Guides :crown:
+
+We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
+
+Please discuss it with us first by creating a new issue.
+
+                                                🎊🎉🥳**Happy Contributing**🎊🎉🥳
