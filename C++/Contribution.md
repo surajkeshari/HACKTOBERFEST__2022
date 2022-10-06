@@ -6,6 +6,7 @@
  Problem list:
 
 [
+<<<<<<< HEAD
 Name : Ashish
 Github id: https://github.com/ashish12011046
 Problem list:
@@ -16,4 +17,14 @@ Problem list:
 4. Odd Even Linked list.
 5. Linked List Random Node.
 
+=======
+    Name:Mohd Aqib
+    Github id:https://github.com/anmolali5811
+    Problem list:
+        1. dfs
+        2. bfs
+        3. Topological Sort DFS
+        4. Dijkstra’s Algorithm
+        5. Bellman-Ford Algo
+>>>>>>> f84b89984b858327b863353e6de555abd228449f
 ]
