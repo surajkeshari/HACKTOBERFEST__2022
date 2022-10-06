@@ -4,20 +4,21 @@
  Name:Nishant kumar
  Github id:https://github.com/nishantkumar1308
  Problem list:
+]
 
 [
-<<<<<<< HEAD
 Name : Ashish
 Github id: https://github.com/ashish12011046
 Problem list:
 
-1. Reverse a link list.
-2. Merge K sorted linked lists.
-3. Insertion Sort list.
-4. Odd Even Linked list.
-5. Linked List Random Node.
+        1. Reverse a link list.
+        2. Merge K sorted linked lists.
+        3. Insertion Sort list.
+        4. Odd Even Linked list.
+        5. Linked List Random Node.
+ ]
 
-=======
+[
     Name:Mohd Aqib
     Github id:https://github.com/anmolali5811
     Problem list:
@@ -26,5 +27,4 @@ Problem list:
         3. Topological Sort DFS
         4. Dijkstra’s Algorithm
         5. Bellman-Ford Algo
->>>>>>> f84b89984b858327b863353e6de555abd228449f
 ]
