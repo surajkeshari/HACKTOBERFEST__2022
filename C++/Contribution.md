@@ -6,6 +6,10 @@
  Problem list:
 
 [
+Name : Ashish
+Github id: https://github.com/ashish12011046
+Problem list:
 
+1. Reverse a link list
 
 ]
